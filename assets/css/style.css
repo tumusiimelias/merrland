@@ -1,0 +1,249 @@
+body{
+    margin:0;
+}
+.container{
+    margin:0;
+}
+.columns{
+    display: flex;
+}
+.school_name{
+    margin-left:80px ;
+}
+.logo{
+    margin-left:20px ;
+
+}
+.logo_card{
+    padding-top:30px;
+}
+.col-dates{
+  
+}
+
+ul {
+
+    list-style-type: none;
+    margin:700px;
+    display:flex;
+    gap:30px;
+    color: black;
+    font-size:20px;
+    text-decoration: none; 
+  }
+  ul li a {
+    color:rgb(180, 176, 176); /* Change color to your desired color */
+    text-decoration: none; /* Remove underline */
+    font-weight:20px;
+    
+}
+.intro{
+    text-align: center;
+    background-image: url(../images/students3.webp);
+    background-position: center;
+    background-repeat:none;
+    background-size: cover;
+    margin-bottom:20px;
+    color: aliceblue;
+    width:100%;
+}
+.title{
+    text-align:center;
+    padding-top:600px;
+    color:white;
+    text-decoration: solid;
+    font-style: oblique;
+    font-weight: 500px;
+}
+.btn-apply{
+    background-color:red;
+    border:none;
+    border-radius:4px;
+    width:200px;
+    height:60px;
+    color: white;
+    font-weight:bolder ;
+    margin-bottom:10px;
+}
+.card-1{
+    width:100%;
+}
+.card-2{
+    display: flex;
+}
+.card-3{
+    text-align:center;
+    font-weight:bold;
+    margin:25px;
+    padding:20px 0;
+    width:700px;
+}
+.motto{
+    color: rgb(66, 66, 124);
+}
+.cand{
+    text-align: center;
+}
+
+.col{
+    margin:0 20px;
+}
+footer{
+    background-color: rgb(72, 70, 70);
+    color: white;
+    padding:25px;
+}
+.copyright{
+    text-align: center;
+    font-size:20px;
+    margin-top:20px;
+    margin-bottom:25px;
+}
+.heading-footer{
+    color:#81d2e5;
+    font-style:inherit;
+}
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-whatsapp {
+    background: #17cf79;
+    color: white;
+  }
+  .fa-instagram {
+    background: #94096d;
+    color: white;
+  }
+  .candidates_card{
+    padding-top:30px;
+  }
+  .candidates_card{
+    margin-left:20px;
+    margin-right:20px;
+  }
+  .col-card{
+    display:flex;
+  }
+  .col-dates{
+    margin:20px;
+  }
+  .thumb{
+    display:flex;
+  }
+  .thumbnail{
+    width:1000px;
+    padding:10px;
+    margin:0 15px;
+  }
+  #about{
+    text-decoration-style:initial;
+  }
+  .comment{
+    color: antiquewhite;
+    background-color: #94096d;
+    width:100%;
+    height:300px;
+    text-align: center;
+    margin-bottom:10px;
+  }
+  .h2{
+    text-align: center;
+    margin-top:150px;
+    font-size:30px;
+  }
+  #email{
+    height:40px;
+    width:400px;
+    margin-top:30px ;
+  }
+  .btn-email{
+    background-color: #17cf79;
+    border-style: none;
+    height:40px;
+    width: 100px;
+  }
+ 
+  .box1{
+    height:100px;
+    background-color: #3B5998;
+    color: aliceblue;
+    padding-top:auto;
+    padding-bottom: auto;
+  }
+  .main{
+    text-align: center;
+    text-decoration-style: inherit;
+    margin-top: auto;
+    margin-bottom: auto;
+    
+  }
+  .bg-1{
+    margin-top:8px;
+  }
+  .bg-2{
+    display: flex;
+  }
+  .bg-3{
+    height:200px ;
+    width:400px;
+  
+  }
+  .bg-4{
+    height:200px ;
+    width:800px;
+    font-size:1.2rem;
+  
+  }
+  .floating{
+    height:100px;
+    margin-top:10px;
+  }
+  .column-2{
+    display: flex;
+    height:500px;
+    width:900px;
+  }
+  .column-3{
+    margin:0 25px;
+  }
+  .column-4{
+    margin:0 45px;
+    margin-left:200px ;
+  }
+   .form-floating{
+    margin-top:10px;
+   }
+   .submit-btn{
+    margin-top:10px;
+    border-style: none;
+    background-color:red ;
+    height:40px ;
+    width:100px;
+   }
+
+
+   
